@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studio-242-30ce0041.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
