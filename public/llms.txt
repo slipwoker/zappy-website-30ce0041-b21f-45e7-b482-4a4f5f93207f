@@ -1,0 +1,53 @@
+# Studio 242 — Generative Engine Optimization Map
+
+> A art and design business.
+
+---
+
+## Pages
+
+### Home
+https://studio-242-30ce0041.zappy5.app
+
+### Services
+https://studio-242-30ce0041.zappy5.app/services
+
+### Portfolio
+https://studio-242-30ce0041.zappy5.app/portfolio
+
+### Contact
+https://studio-242-30ce0041.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://studio-242-30ce0041.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://studio-242-30ce0041.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://studio-242-30ce0041.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Studio 242
+Studio 242 is a business in the art and design industry.
+
+## Target Audience
+hospitality, residential, and commercial spaces
+
+## Industry
+art and design
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://studio-242-30ce0041.zappy5.app/sitemap.xml
+- **Robots.txt**: https://studio-242-30ce0041.zappy5.app/robots.txt
